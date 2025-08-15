@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.env
+venv/
+env/
+
+# Editor files and settings
+.idea/  # For PyCharm or other JetBrains IDEs
+.vscode/ # VS Code specific files
+*.sublime-project
+*.sublime-workspace
+
+# Operating System files
+.DS_Store # Mac OS
+Thumbs.db # Windows
+
+# Log and temporary files
+*.log
+*.tmp
+temp/
+test1.py
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Testing and coverage
+.coverage
+htmlcov/
+.pytest_cache/
